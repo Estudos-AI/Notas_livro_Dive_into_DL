@@ -23,7 +23,9 @@ Disponíveis no livro físico:
 
 <div align="justify">
 Disponíveis apenas na versão online:
+<br>
 Jogar no google: "d2l.ai"
+</br>
 </div>
 
 12. Optimization Algorithms
