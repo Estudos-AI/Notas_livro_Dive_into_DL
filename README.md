@@ -24,7 +24,9 @@ Disponíveis no livro físico:
 <div align="justify">
 Disponíveis apenas na versão online:
 <br>
+<b>
 Jogar no google: "d2l.ai"
+</b>
 </br>
 </div>
 
