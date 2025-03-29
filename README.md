@@ -5,7 +5,9 @@ Este repositório é destinado aos meus estudos sobre o livro Dive Into Deep Lea
 </div>
 
 <div align="justify">
+<b>
 Disponíveis no livro físico:
+</b>
 </div>
 
 1.  Introduction
@@ -22,9 +24,9 @@ Disponíveis no livro físico:
 
 
 <div align="justify">
+<b>
 Disponíveis apenas na versão online:
 <br>
-<b>
 Jogar no google: "d2l.ai"
 </b>
 </br>
