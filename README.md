@@ -36,7 +36,7 @@ Disponíveis apenas na versão online:
 20. Generative Adversarial Networks
 
 
-<img src="images/book_structure.png" alt="Fig.1 - Estrutura do Livro" width="800">
+<img src="images/book_structure.png" alt="Fig.1 - Estrutura do Livro" width="400">
 
 
 
